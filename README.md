@@ -14,7 +14,15 @@ We plan to tell a compelling story that engages and informs our audience about t
 
 
 # Finding Data
+##### 1) Where did you download the data (e.g., a web URL)?
 
+##### 2) How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
+
+##### 3) How many observations (rows) are in your data?
+
+##### 4) How many features (columns) are in the data?
+
+ 
 
 
 
