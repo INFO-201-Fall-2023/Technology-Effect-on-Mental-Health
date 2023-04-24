@@ -28,19 +28,33 @@ We plan to tell a compelling story that engages and informs our audience about t
 
 # Background Research/Inspiration
 https://etactics.com/blog/negative-effects-of-technology-on-mental-health
+
 This source talks about how technology and specifically our phones have negative effect on our mental health, This is a direct example the effects on mental health which we mentioned in our pitch
+
 This should provide some good information and get us thinking about technology in our lives, the data is too broad and mostly based on surveys so we can’t really directly use it though. 
+
 https://www.marriage.com/advice/relationship/technology-and-relationships/
+
 This is another source that is pretty specific in its focus, it talks specifically about how technology affects our relationships. This is another piece of what we wanted to talk about.
+
 This might be a little too specific and it focuses on the problem of relationships only so it is different that exactly what we want out project to focus on but it should serve a good purpose still.
+
 https://www.pewresearch.org/internet/2018/12/10/artificial-intelligence-and-the-future-of-humans/
+
 This source was surprisingly relevant to what we were looking at, a lot of this article talks about how technology affects society as a whole and not so much human health, but it does talk about how these changes in society will affect the average person 
+
 There is a part of this article talks about the positive things that AI, which is a form of technology, will do for humans like diagnosing disease and helping with health research, this a good example of how technology can help human well-being which is different than the other sources so far
+
 https://www.psychologytoday.com/us/blog/live-long-and-prosper/202210/technology-use-loneliness-and-isolation#:~:text=When%20technology%20takes%20the%20place,to%20real%2Dlife%20social%20isolation.
+
 This is a great source that talks about a more psychological effect that technology has on us
+
 This is very helpful and provides the basis of a lot of what we intend to talk about in our project. This is very similar to our overall pitch.
+
 https://www.healthtechzone.com/topics/healthcare/articles/2021/02/19/448068-5-ways-technology-has-improved-our-quality-life.htm
+
 This source is very nice and provides another positive angle to view technology from. We can use this in order to think about how technology will help us in the future
+
 With this source we can see the ways we already benefit from technology daily, with this info we can try to draw parallels to how we can be better in the future. I think this could be really helpful in allowing us to look forwards and apply technology better in our project. 
 
 
