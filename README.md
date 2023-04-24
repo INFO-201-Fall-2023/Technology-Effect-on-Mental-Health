@@ -1,4 +1,4 @@
-# final-project-repositories-AdvaithB
+# Technology Effect on Mental Health
 final-project-repositories-AdvaithB created by GitHub Classroom
 
 # Story Pitch
