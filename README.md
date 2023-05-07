@@ -21,9 +21,9 @@ https://catalog.data.gov/dataset/technology-teen-dating-violence-and-abuse-and-b
 ##### 2) How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
 General data was collected for impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness. This data also talks about the effect of social media during the lockdown. However, this data can also be used to examine the use of social media and technology on mental health over that period of time by comparing it to another dataset. The goal of the other dataset was to expand knowledge about the types of abuse experiences youth have, and the extent of victimization, and perpetration via technology and new media. This project carried out a multi-state study of teen dating violence and abuse, and bullying, the main component of which included a survey of youth from ten schools in five school districts in New Jersey, New York, and Pennsylvania, gathering information from 5,647 youth about their experiences. For our group, we have data as mentioned at the top, one talks about mental health, and the other talks about the issue of social networking.  
 ##### 3) How many observations (rows) are in your data?
-There are fourteen observations (rows) in our data set and the other one has eleven observations (rows).
+There are 1290 observations (rows) in our data set and the other one has 1139 observations (rows).
 ##### 4) How many features (columns) are in the data?
-There are 1290 columns in the first data and the other one has 1139 columns. 
+There are 14 columns in the first data and the other one has 11 columns. 
 
 ## Background Research/Inspiration
 https://etactics.com/blog/negative-effects-of-technology-on-mental-health
