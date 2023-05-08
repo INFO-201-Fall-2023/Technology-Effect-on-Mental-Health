@@ -1,8 +1,8 @@
 library(dplyr)
 library(stringr)
 
-df_1 <- read.csv("~/info 201/project/social media usage.csv")
-df_2 <- read.csv("~/info 201/project/anxiety report.csv")
+df_1 <- read.csv("social media usage.csv")
+df_2 <- read.csv("anxiety report.csv")
 
 usage_df <- df_1
 anxiety_df <- df_2
