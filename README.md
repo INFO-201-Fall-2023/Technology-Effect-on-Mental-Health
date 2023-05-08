@@ -17,7 +17,7 @@ We plan to tell a compelling story that engages and informs our audience about t
 ##### 1) Where did you download the data (e.g., a web URL)?
 https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp
 
-https://catalog.data.gov/dataset/technology-teen-dating-violence-and-abuse-and-bullying-in-three-states-2011-2012
+https://www.statista.com/statistics/1276021/instagram-snapchat-tiktok-gen-z-users/
 ##### 2) How was the data collected or generated? Make sure to explain who collected the data (not necessarily the same people that host the data), and who or what the data is about?
 General data was collected for impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness. This data also talks about the effect of social media during the lockdown. However, this data can also be used to examine the use of social media and technology on mental health over that period of time by comparing it to another dataset. The goal of the other dataset was to expand knowledge about the types of abuse experiences youth have, and the extent of victimization, and perpetration via technology and new media. This project carried out a multi-state study of teen dating violence and abuse, and bullying, the main component of which included a survey of youth from ten schools in five school districts in New Jersey, New York, and Pennsylvania, gathering information from 5,647 youth about their experiences. For our group, we have data as mentioned at the top, one talks about mental health, and the other talks about the issue of social networking.  
 ##### 3) How many observations (rows) are in your data?
